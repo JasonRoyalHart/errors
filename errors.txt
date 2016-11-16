@@ -1,5 +1,5 @@
 Here is a file to wreck with errors.
 Second line.
-Fourth line.
-New line.
-Second new line.
+fifth line.
+third line.
+seventh line.
