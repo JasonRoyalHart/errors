@@ -1,0 +1,4 @@
+Here is a file to wreck with errors.
+Second line.
+Third line.
+Fourth line.
